@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 int main() 
 {
  int n, count = 0;
@@ -8,7 +8,7 @@ int main()
  {
   n = n / 10;
   count++;
-}
+ }
   printf("Digits of the number= %d", count);
   return 0;
 }
