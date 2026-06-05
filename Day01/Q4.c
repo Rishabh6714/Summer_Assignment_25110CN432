@@ -8,7 +8,7 @@ int main()
  {
   n = n / 10;
   count++;
-  }
+}
   printf("Digits of the number= %d", count);
   return 0;
 }
