@@ -11,7 +11,7 @@ int main()
   scanf("%s", str2);
   if(strlen(str1) != strlen(str2))
     {
-       printf("Not Anagram");
+       printf(" Not Anagram ");
        return 0;
     }
       for(i = 0; str1[i] != '\0'; i++)

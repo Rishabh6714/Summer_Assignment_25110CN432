@@ -20,3 +20,4 @@ int main()
     printf("No non-repeating character\n");
     return 0;
 }
+
